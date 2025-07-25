@@ -1,7 +1,5 @@
 # Simon-Game
-![Simon Game Screenshot](Simon Game Challenge Starting Files/assets/Screenshot1.png)
-![Simon Game Screenshot](assets/Screenshot2.png)
-
+📌 Note: Screenshots of the project running successfully are included in the assets/ folder. Feel free to check them out for a visual preview of the game.
 
 A classic memory game where players must repeat increasingly long sequences of colors and sounds. This project is built using HTML, CSS, and JavaScript to provide an interactive, fun, and engaging experience that helps improve focus and memory skills.
 
