@@ -1,5 +1,5 @@
 # Simon-Game
-![Simon Game Screenshot](assets/Screenshot1.png)
+![Simon Game Screenshot](Simon Game Challenge Starting Files/assets/Screenshot1.png)
 ![Simon Game Screenshot](assets/Screenshot2.png)
 
 
